@@ -1,7 +1,7 @@
-export {default as Contacts} from './contacts/Contacts';
-export {default as Footer} from './footer/Footer';
-export {default as Intro} from './intro/Intro';
-export {default as Portfolio} from './portfolio/Portfolio';
-export {default as Testimonials} from './testimonials/Testimonials';
-export {default as TopBar} from './topbar/Topbar';
-export {default as Works} from './works/Works';
+export {default as Header} from './Header/Header'
+export {default as Contacts} from './Contacts/Contacts';
+export {default as Footer} from './Footer/Footer';
+export {default as Intro} from './Intro/Intro';
+export {default as Portfolio} from './Portfolio/Portfolio';
+export {default as Works} from './Header/Menu/Menu';
+export {default as Menu} from './Header/Menu/Menu';
